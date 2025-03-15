@@ -5,6 +5,8 @@
 
 ## **Overview 🎯🎯**
 
+[Resoruce](https://chatgpt.com/c/67d57888-a180-800e-aa46-82da0862fa54) 
+
 The Free AI-Powered Office Assistant is a web-based tool designed to automate office tasks such as assignment checking, question bank (QB) creation, and paper checking. It utilizes Ollama and Open WebUI to provide a seamless and efficient AI assistant for office workflows.
 
 ## **Objectives** 🎯
