@@ -193,7 +193,7 @@ Each student (or group) can be assigned specific modules of the project. For exa
  
 | Title | Description| Type |
 |---|---|---|
-| [**1-Complate Road Map With ChatGPT**](https://chatgpt.com/c/67d57888-a180-800e-aa46-82da0862fa54)|it show ERPNET Installation |Video|
+| [**1-Build Your Local AI: From Zero to a Custom ChatGPT Interface with Ollama & Open WebUI**](https://medium.com/@hautel.alex2000/build-your-local-ai-from-zero-to-a-custom-chatgpt-interface-with-ollama-open-webui-6bee2c5abba3)|it show ERPNET Installation |Video|
 |[**2-Adding bot feature in whatsapp app?**](https://chatgpt.com/c/67cd3344-f3fc-800e-920a-6a69734dcad9)|Health related project| Project|
 |[**3-WhatsApp Business API Overview**](https://github.com/dr-mushtaq/Streamlit-WhatsApp-Messaging-Application/blob/main/WhatsApp%20Business%20API%20Overview.docx)|It is detail about Whatsap API|Video|
 |[**4-Machine Learning Notebooks**](https://github.com/dair-ai/ML-Notebooks)|ML,NLP,Transformers,Computer Vision,GAN|All|
