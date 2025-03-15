@@ -1,6 +1,9 @@
-🚀 Free AI-Powered Office Assistant
+## **🚀Free AI-Powered Office Assistant👨‍🎓📚**
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Streamlit-WhatsApp-Messaging-Application/blob/main/DALL%C2%B7E%202025-03-07%2010.40.49%20-%20A%20modern%20and%20sleek%20technology%20banner%20for%20a%20WhatsApp%20messaging%20application%20using%20AI%20automation.%20The%20image%20should%20feature%20a%20futuristic%20interface%20with%20a%20.webp"></a>
+</p>
 
-Overview 🎯
+## **Overview 🎯🎯**
 
 The Free AI-Powered Office Assistant is a web-based tool designed to automate office tasks such as assignment checking, question bank (QB) creation, and paper checking. It utilizes Ollama and Open WebUI to provide a seamless and efficient AI assistant for office workflows.
 
