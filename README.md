@@ -7,25 +7,25 @@
 
 The Free AI-Powered Office Assistant is a web-based tool designed to automate office tasks such as assignment checking, question bank (QB) creation, and paper checking. It utilizes Ollama and Open WebUI to provide a seamless and efficient AI assistant for office workflows.
 
-Objectives 🎯
+## **Objectives** 🎯
 
-Develop an easy-to-use web interface for office task automation.
+1- Develop an easy-to-use web interface for office task automation.
 
-Integrate AI models using Ollama for task execution.
+2- Integrate AI models using Ollama for task execution.
 
-Enable automated assignment checking based on grading rubrics.
+3- Enable automated assignment checking based on grading rubrics.
 
-Allow bulk question bank generation based on topics.
+4- Allow bulk question bank generation based on topics.
 
-Implement AI-driven paper checking for grammar and plagiarism detection.
+5- Implement AI-driven paper checking for grammar and plagiarism detection.
 
 Provide a dashboard for tracking task history and reports.
 
-System Architecture 🎯
+## **System Architecture** 🎯
 
 The system consists of three main components:
 
-Frontend (Web-Based UI)
+1. **Frontend (Web-Based UI)**
 
 User-friendly interface for managing tasks.
 
