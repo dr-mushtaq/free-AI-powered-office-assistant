@@ -1,6 +1,6 @@
 ## **🚀Free AI-Powered Office Assistant👨‍🎓📚**
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Streamlit-WhatsApp-Messaging-Application/blob/main/DALL%C2%B7E%202025-03-07%2010.40.49%20-%20A%20modern%20and%20sleek%20technology%20banner%20for%20a%20WhatsApp%20messaging%20application%20using%20AI%20automation.%20The%20image%20should%20feature%20a%20futuristic%20interface%20with%20a%20.webp"></a>
+<img src="https://github.com/dr-mushtaq/free-AI-powered-office-assistant/blob/main/DALL%C2%B7E%202025-03-15%2007.28.51%20-%20A%20modern%20and%20sleek%20technology%20banner%20for%20an%20AI-powered%20office%20assistant.%20The%20image%20should%20feature%20a%20futuristic%20interface%20with%20holographic%20screens%20disp.webp"></a>
 </p>
 
 ## **Overview 🎯🎯**
