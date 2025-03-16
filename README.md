@@ -81,6 +81,11 @@ Sustainability & Future Roadmap 🤝
 
 🔹 Integration with OpenAI API for advanced text analysis.🔹 Smart Auto-replies & AI Chatbot for office queries.🔹 Support for multiple languages and document formats.🔹 Mobile-friendly interface for on-the-go task management.
 
+## **Instalation**
+
+1- Download Ollama webiste and instal in your Pc
+2- Go to VS Code instal Ollama module pip instal Ollama
+
 📬 Contact
 
 For inquiries and contributions, contact Dr. Mushtaq at:
