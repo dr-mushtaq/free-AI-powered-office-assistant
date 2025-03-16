@@ -84,6 +84,7 @@ Sustainability & Future Roadmap 🤝
 ## **Instalation**
 
 1- Download Ollama webiste and instal in your Pc
+
 2- Go to VS Code instal Ollama module pip instal Ollama
 
 📬 Contact
