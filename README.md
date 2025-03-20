@@ -201,7 +201,7 @@ Each student (or group) can be assigned specific modules of the project. For exa
 |---|---|---|
 | [**1-Build Your Local AI: From Zero to a Custom ChatGPT Interface with Ollama & Open WebUI**](https://medium.com/@hautel.alex2000/build-your-local-ai-from-zero-to-a-custom-chatgpt-interface-with-ollama-open-webui-6bee2c5abba3)|it show ERPNET Installation |Video|
 |[**2-Tiny Ollama Chat?**](https://github.com/anishgowda21/tiny-ollama-chat)|Health related project| Project|
-|[**3-Build Your Own ChatGPT Locally Using Ollama & OpenWeb-UI | Full Tutorial**](https://www.youtube.com/watch?v=JXKyKE3Xkvk)|It is yourtube Video|
+|[**3-Build Your Own ChatGPT Locally Using Ollama & OpenWeb-UI Full Tutorial**](https://www.youtube.com/watch?v=JXKyKE3Xkvk)|It is yourtube Video|
 |[**4-Machine Learning Notebooks**](https://github.com/dair-ai/ML-Notebooks)|ML,NLP,Transformers,Computer Vision,GAN|All|
 |[**5-Real-time-ML-Project**](https://github.com/ashishpatel26/Real-time-ML-Project)|Machine Learning and Data Science Applications in Industry|All|
 |[**6-Machine Learning Collection**](https://github.com/aladdinpersson/Machine-Learning-Collection?fbclid=IwZXh0bgNhZW0CMTAAAR0rAF-kyWSHTbqOndesJvQF_My4ECStZJ3dJv67jkNgBSzWiCZuqE0kzrk_aem_AeHJgbUrzIErDWrJ78xSXhzRSakIRnRF_XgRykvhK4e_tvGtgf7O8dE1mBaj_AsnkJx6FtyxEwQ8RBeKHV3KYgA1)|Basic to Advane, Video|All|
