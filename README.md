@@ -203,7 +203,7 @@ Each student (or group) can be assigned specific modules of the project. For exa
 |[**✅2-Tiny Ollama Chat?**](https://github.com/anishgowda21/tiny-ollama-chat)|Health related project| Project|
 |[**✅3-Build Your Own ChatGPT Locally Using Ollama & OpenWeb-UI Full Tutorial**](https://www.youtube.com/watch?v=JXKyKE3Xkvk)|It is yourtube Video|
 |[**✅4-GenAI Agents: Comprehensive Repository for Development and Implementation**](https://github.com/NirDiamant/GenAI_Agents)| dynamic collections of Generative AI (GenAI) agent tutorials and implementations available today|All|
-|[**5-Real-time-ML-Project**](https://github.com/ashishpatel26/Real-time-ML-Project)|Machine Learning and Data Science Applications in Industry|All|
+|[**✅5-Open WebUI tutorial — Supercharge Your Local AI with RAG and Custom Knowledge Bases**](https://medium.com/@hautel.alex2000/open-webui-tutorial-supercharging-your-local-ai-with-rag-and-custom-knowledge-bases-334d272c8c40)[Github](https://github.com/pahautelman/Obsidian-Text-Transformer-LocalAI)|Retrieval-Augmented Generation (RAG), showing you how to dramatically improve your AI’s|All|
 |[**6-Machine Learning Collection**](https://github.com/aladdinpersson/Machine-Learning-Collection?fbclid=IwZXh0bgNhZW0CMTAAAR0rAF-kyWSHTbqOndesJvQF_My4ECStZJ3dJv67jkNgBSzWiCZuqE0kzrk_aem_AeHJgbUrzIErDWrJ78xSXhzRSakIRnRF_XgRykvhK4e_tvGtgf7O8dE1mBaj_AsnkJx6FtyxEwQ8RBeKHV3KYgA1)|Basic to Advane, Video|All|
 |[**7-Data Science Projects**](https://github.com/veb-101/Data-Science-Projects)|Basic to Advane, Video|All|
 |[**8-Introduction to Machine Learning**](https://github.com/codeheroku/Introduction-to-Machine-Learning/tree/master)|Basic to Advane, Video|All|
